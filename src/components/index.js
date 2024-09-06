@@ -9,7 +9,7 @@ import RTE from "./RTE";
 import Signup from "./Signup";
 import Login from "./Login";
 import Select from "./Select";
-import PostForm from "../components/Post-Form/PostForm";
+import PostForm from "./post-form/PostForm";
 import PostCard from "./PostCard";
 import AuthLayout from "./AuthLayout";
 
